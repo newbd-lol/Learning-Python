@@ -1,3 +1,3 @@
-# Learning-Python
+# Learning Python
 
-idk how to code python so im learning
+I don't know yet how to code in Python, so I'm learning.
