@@ -1,3 +1,6 @@
 # Learning Python
 
 I don't know yet how to code in Python, so I'm learning.
+
+Dog roaster: Lets u input a dog name and its breed and then roasts you for having that name and breed
+
